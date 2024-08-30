@@ -1,0 +1,43 @@
+Clusters:
+A cluster could be used for tables storing employee information and department information that are frequently accessed together.
+
+Tables:
+A table is a database object that stores data in rows and columns. Each table is defined by its schema, which specifies the columns, data types, and constraints (e.g., primary keys).
+
+Status : Stores the different statuses that can be assigned to various entities in the system (e.g., active, inactive).
+Project_Role : Contains roles assigned to employees within projects.
+Project_Status : Stores the statuses of projects (e.g., not started, in progress, completed).
+Attendance_Status : Defines the status of employee attendance (e.g., present, absent, late).
+Technology : Lists technologies used or available in the system.
+Designations : Stores employee designations or job titles.
+Employees : Contains details about employees.
+Locations : Stores information about different locations (e.g., office locations).
+Departments : Contains details of different departments within the organization.
+Projects : Stores details of projects.
+Employee_Project_Assignments : Tracks the assignments of employees to projects.
+Attendance :  Records employee attendance.
+Leaves : Tracks leave requests and statuses.
+Training_Programs : Lists training programs available for employees.
+Salaries : Maintains salary information for employees.
+
+
+Indexes:
+Indexes improve the performance of database queries. Each index is created on one or more columns of a table to speed up data retrieval.
+
+Sequences:
+Sequences generate unique numeric values, often used for primary key columns
+
+Packages:
+Packages group related PL/SQL procedures, functions, variables, and cursors into a single unit.
+
+Procedures:
+Stored procedures are precompiled PL/SQL code blocks that perform specific tasks or operations.
+
+Functions:
+Functions are PL/SQL blocks that return a value and can be used in SQL statements.
+
+Views:
+Views are virtual tables created by querying one or more tables. They can simplify complex queries and present data in a specific format.
+
+Triggers:
+Triggers are PL/SQL code blocks that automatically execute in response to certain events on a table (e.g., insert, update, delete).
