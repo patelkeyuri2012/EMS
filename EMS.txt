@@ -1,3 +1,5 @@
+Employee Management System
+
 Clusters:
 A cluster could be used for tables storing employee information and department information that are frequently accessed together.
 
