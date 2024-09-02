@@ -3,7 +3,7 @@
 - Extract it
 - Open that folder
 - All necessary objects queries are provided
-- Just copy and pastre in your SqlPlus
+- Just copy and paste it in your SqlPlus editor
 - You can also used live sql for execute this project
 
 - For download Oracle Server :
