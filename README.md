@@ -1,4 +1,4 @@
-# Employee Management System | PlSql
+# Employee Management System | PLSQL
 - Download this zip file
 - Extract it
 - Open that folder
